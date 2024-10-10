@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @yuvrajjj_09
 - <dr>
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning java programming language
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yuvrajchoudhary1id@gmail.com
 
 <!---
